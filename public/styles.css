@@ -1,0 +1,36 @@
+html{
+    background-color: #d0dceb;
+}
+.one{
+    height: 50px;
+    width: 512px;
+    color: #FDFFE2;
+    text-align: center;
+    background-color:#1A2130 ;
+    margin-left: 450px;
+    margin-top: 0px;
+}
+.two{
+    margin-left: 450px;
+    margin-top: 5px;
+    border: 2px solid #283953;
+    height: 450px;
+    width: 508px;
+}
+.three{
+    margin-left: 450px;
+    margin-top: 10px;
+    height: 50px;
+    width: 508px;
+    color: white;
+    background-color:#1A2130 ;
+}
+#link{
+    background-color: rgb(230, 165, 165);
+}
+.caveat {
+font-family: "Caveat", cursive;
+font-optical-sizing: auto;
+font-weight: 450;
+font-style: normal;
+}
